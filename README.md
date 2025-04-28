@@ -8,8 +8,8 @@ yml
 
 ```yml
 cli:
-  name: tngDaemon
-  node: transCodeNode
+  name: test
+  node: testNode
   server:
     port: 9090
     bind: 127.0.0.1
