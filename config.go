@@ -2,7 +2,7 @@ package cfg
 
 import (
 	"errors"
-	"go-config/utils"
+	"github.com/courser-chen/go-config/utils"
 	"gopkg.in/yaml.v3"
 	"log"
 	"os"
